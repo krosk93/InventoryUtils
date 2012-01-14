@@ -2,7 +2,6 @@ InventoryUtils
 ========
 InventoryUtils is a library to support VirtualChests with persistence
 
-Copyright &copy; 2011, Oliver Brown (Arkel) <minecraft@ark3l.net>
 InventoryUtils is licensed under [GNU LESSER GENERAL PUBLIC LICENSE Version 3][License]
 
 Track and submit issues and bugs on our [issue tracker][Issues].
